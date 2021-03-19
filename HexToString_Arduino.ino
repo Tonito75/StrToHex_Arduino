@@ -7,7 +7,7 @@ void loop()
 {
   Serial.println(HexStrToStr("426F6e6a6f7572"));
   
-  
+  //Output : "Bonjour"
 }
 
 String HexStrToStr(String hexString){
